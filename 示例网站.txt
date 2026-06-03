@@ -1,0 +1,21 @@
+# 招聘猫 - 监控网站列表
+# 每行填写一个网站地址，以 # 开头的行为注释，会被忽略
+# 支持 http:// 和 https:// 开头，也支持省略协议头直接填写域名
+
+# ── 示例：政府/事业单位招聘公告页面 ──────────────────────────────────────
+# 请将下方替换为您实际要监控的网站
+
+# 国家公务员局
+http://www.scs.gov.cn/
+
+# 中国裁判文书网（示例，请替换为目标单位招聘页）
+# https://wenshu.court.gov.cn/
+
+# 如需监控某企业的招聘公告页，直接填写该页面的 URL
+# https://www.example-company.com/jobs/
+# https://hr.example-gov.cn/zhaopin/
+https://www.suibe.edu.cn/rsc/3652/list.htm
+https://web.dhu.edu.cn/rschu/23256/list.htm
+https://zhaopin.shisu.edu.cn/product/recruit/defalt/recruitNotice.jsp?FM_SYS_ID=shwgydx
+https://rsj.sh.gov.cn/tzpgg_17408/index.html
+https://zhaopin.shisu.edu.cn/product/recruit/defalt/recruitNotice.jsp?FM_SYS_ID=shwgydx
